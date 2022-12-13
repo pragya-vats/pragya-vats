@@ -14,7 +14,7 @@ for technical and personal advancement. My main interest lies in Data Science, M
     <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a>
-    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img alt="Machine Leaning" src="https://img.shields.io/badge/-Machine%20Learning-green">
   </a>
   <a>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
