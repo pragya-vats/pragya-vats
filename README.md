@@ -4,5 +4,5 @@
 for technical and personal advancement. My main interest lies in Data Science, Machine Learning, and Deep Learning.</h4>
 <br>
 <p align="center"> 
-  <a href="(https://github.com/pragya-vats/pragya-vats/files/10220452/resume.pdf)"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+  <a href="https://github.com/pragya-vats/pragya-vats/files/10220452/resume.pdf"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
 </p>
