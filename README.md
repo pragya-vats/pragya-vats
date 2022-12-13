@@ -8,7 +8,7 @@ for technical and personal advancement. My main interest lies in Data Science, M
 </p>
 
 <hr/>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Technical Stack</h3>
 <p align="center">
   <a>
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue">
@@ -20,13 +20,10 @@ for technical and personal advancement. My main interest lies in Data Science, M
     <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-important">
   </a>
   <a>
-    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/-Tensorflow-orange">
   </a>
   <a>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue">
-  </a>
-  <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a>
     <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-blue">
