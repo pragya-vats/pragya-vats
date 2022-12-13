@@ -3,3 +3,6 @@
 <h4 align="center">A dedicated and an aspiring Data Scientist with an objective of working in an organization that provides opportunities 
 for technical and personal advancement. My main interest lies in Data Science, Machine Learning, and Deep Learning.</h4>
 <br>
+<p align="center"> 
+  <a href="(https://github.com/pragya-vats/pragya-vats/files/10220452/resume.pdf)"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+</p>
