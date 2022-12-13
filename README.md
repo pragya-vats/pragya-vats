@@ -36,7 +36,7 @@ for technical and personal advancement. My main interest lies in Data Science, M
     <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
   </a>
   <a>
-    < src="https://img.shields.io/badge/-Machine%20Learning-green">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-green">
   </a>
   <a>
     <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
