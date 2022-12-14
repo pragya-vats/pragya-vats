@@ -4,7 +4,7 @@
 for technical and personal advancement. My main interest lies in Data Science, Machine Learning, and Deep Learning.</h4>
 <br>
 <p align="center"> 
-  <a href="https://drive.google.com/file/d/1K-fuLXnLZCrlNNwiondZvikQ76ZfiKtE/view"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1u0zuDEqn0pAfuLDUaq5nF0FfM1pqVyoq/view"></a>
 </p>
 
 <hr/>
